@@ -4764,7 +4764,7 @@ const sidebars = {
         id: 'learning-guides'
       },
       items: [
-        'best-practice-guides/real-time-monitoring-for-it-infra',
+        //'best-practice-guides/real-time-monitoring-for-it-infra', <!-- hubspot 배포후에 다시 오픈 -->
         // 'metrics/common-metrics-intro',
         {
           type: 'html',
